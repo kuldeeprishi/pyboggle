@@ -2,6 +2,8 @@
 ----------------
 Boggle is a word game invented by Allan Turoff and originally distributed by Parker Brothers. The game is played using a plastic grid of lettered dice, in which players attempt to find words in sequences of adjacent letters.
 
+The Game uses dictionary words from [here](http://dml.cs.byu.edu/~sburton/cs235/projects/boggle/dictionary.txt).
+
 ## System Requirements
 * Python 3.x
 
