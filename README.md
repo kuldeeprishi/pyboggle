@@ -9,9 +9,9 @@ Boggle is a word game invented by Allan Turoff and originally distributed by Par
 ## How to Play
 To play the game simple run and follow the onscreen instruction.
 
-    ```python
+```python
     python boggle.py
-    ```
+```
 
 ## Points Table
 The points are rewarded based on the valid word length. Following table is a reference for how the scoring works
