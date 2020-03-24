@@ -1,0 +1,2 @@
+class BoggleException(Exception):
+    pass
